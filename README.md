@@ -31,7 +31,7 @@
 
 <nav>
     <a href="#home">Home</a>
-    <a href="#s">s</a>
+    <a href="#blogs">blogs</a>
     <a href="#about">About</a>
     <a href="#privacy">Privacy Policy</a>
     <a href="#contact">Contact</a>
