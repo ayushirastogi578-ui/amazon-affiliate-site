@@ -31,7 +31,7 @@
 
 <nav>
     <a href="#home">Home</a>
-    <a href="#reviews">Reviews</a>
+    <a href="#s">s</a>
     <a href="#about">About</a>
     <a href="#privacy">Privacy Policy</a>
     <a href="#contact">Contact</a>
@@ -41,11 +41,11 @@
 
 <div class="card" id="home">
 <h2>Welcome</h2>
-<p>Glow & Style is a beauty and fashion blog where I share in-depth reviews, ingredient breakdowns, styling insights, and honest recommendations. Every product listed here is carefully researched to help you make informed buying decisions.</p>
+<p>Glow & Style is a beauty and fashion blog where I share in-depth s, ingredient breakdowns, styling insights, and honest recommendations. Every product listed here is carefully researched to help you make informed buying decisions.</p>
 </div>
 
-<div class="card" id="reviews">
-<h2>Top Beauty Product Reviews</h2>
+<div class="card" id="s">
+<h2>Top Beauty Product s</h2>
 
 <h3>1. Maybelline Fit Me Matte + Poreless Foundation Review</h3>
 <p>This lightweight foundation is ideal for normal to oily skin types. It provides medium buildable coverage and controls shine for up to 6–8 hours.</p>
@@ -109,11 +109,63 @@
 </ul>
 <p><strong>Best for:</strong> Daily styling and blow-dry routines.</p>
 <a href="#" class="btn">Check Price on Amazon</a>
+<hr>
+
+<h3>6. Product Name Here</h3>
+<p>Short intro paragraph about product.</p>
+<ul>
+<li>Key benefit 1</li>
+<li>Key benefit 2</li>
+<li>Key benefit 3</li>
+<li>Key benefit 4</li>
+</ul>
+<p><strong>Best for:</strong> Who should buy it.</p>
+<a href="#" class="btn">Check Price on Amazon</a>
+
 
 <p style="font-size:12px;margin-top:25px;">Disclosure: As an Amazon Associate, I earn from qualifying purchases.</p>
 </div>
 
 <div class="card" id="about">
+    <div class="card">
+<h2>Best Foundations for Oily Skin in India (2026 Guide)</h2>
+
+<p>Finding the right foundation for oily skin can be challenging. Excess shine, clogged pores, and makeup melting in humid weather are common issues. In this guide, I’ve researched and compared the best foundations suitable for Indian oily skin types.</p>
+
+<h3>1. Maybelline Fit Me Matte + Poreless</h3>
+<p>This is one of the most affordable and reliable foundations for oily skin. It controls shine for up to 8 hours and offers natural-looking coverage.</p>
+
+<h3>2. Lakme 9 to 5 Primer + Matte Foundation</h3>
+<p>Perfect for office wear. Long-lasting formula with built-in primer for smoother application.</p>
+
+<h3>3. L’Oreal Infallible 24H Matte Cover</h3>
+<p>High coverage and sweat-resistant formula, ideal for events and long days.</p>
+
+<h3>How to Choose Foundation for Oily Skin</h3>
+<ul>
+<li>Look for matte or oil-free formulas</li>
+<li>Choose non-comedogenic products</li>
+<li>Avoid dewy finish foundations</li>
+<li>Always set with compact powder</li>
+</ul>
+
+<p>Pro Tip: Always prep skin with oil-control primer before applying foundation for best results.</p>
+</div>
+<div class="card">
+<h2>Maybelline vs Lakme Foundation – Which is Better?</h2>
+
+<p>If you are confused between Maybelline Fit Me and Lakme 9 to 5, here’s a quick comparison:</p>
+
+<ul>
+<li><strong>Coverage:</strong> Lakme offers slightly higher coverage.</li>
+<li><strong>Oil Control:</strong> Maybelline controls shine better in humid weather.</li>
+<li><strong>Price:</strong> Maybelline is slightly more affordable.</li>
+<li><strong>Best For:</strong> Daily wear – Maybelline. Events – Lakme.</li>
+</ul>
+
+<p>Final Verdict: For oily skin beginners, Maybelline Fit Me is a safer choice.</p>
+</div>
+
 <h2>About Me</h2>
 <p>Hi, I’m Ayushi. I research trending beauty and fashion products and provide structured, honest reviews. My aim is to recommend products that deliver value and performance — not hype.</p>
 </div>
