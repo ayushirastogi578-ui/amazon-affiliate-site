@@ -44,8 +44,8 @@
 <p>Glow & Style is a beauty and fashion blog where I share in-depth s, ingredient breakdowns, styling insights, and honest recommendations. Every product listed here is carefully researched to help you make informed buying decisions.</p>
 </div>
 
-<div class="card" id="s">
-<h2>Top Beauty Product s</h2>
+<div class="card" id="reviews">
+<h2>Top Beauty Product reviews</h2>
 
 <h3>1. Maybelline Fit Me Matte + Poreless Foundation Review</h3>
 <p>This lightweight foundation is ideal for normal to oily skin types. It provides medium buildable coverage and controls shine for up to 6–8 hours.</p>
